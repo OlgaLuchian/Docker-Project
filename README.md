@@ -1,2 +1,2 @@
-# Docker-tasks
-Repository for Docker Class task
+# Docker-project
+Repository for Docker Project
